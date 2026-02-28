@@ -1,0 +1,33 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+.virtualenv/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de logs
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos creados por el programa
+informe.txt
+
+# Carpetas de compilación
+build/
+dist/
+*.egg-info/
+
+# Configuración de Jupyter (por si acaso)
+.ipynb_checkpoints/
